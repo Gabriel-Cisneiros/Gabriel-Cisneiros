@@ -29,7 +29,7 @@ Olá 👋, eu sou **Gabriel** um entusiasta e ambicioso desenvolvedor full stack
   <img align="center" alt="gab-css" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="gab-js" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="gab-django" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img align="right" alt="pac-man" width="80%" src="http://i.imgur.com/ihWD6z6.gif"
+  <img align="right" alt="pac-man" src="http://i.imgur.com/ihWD6z6.gif"
 </div>
 
 ##
