@@ -1,59 +1,40 @@
-Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, product lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Olá 👋, eu sou **Gabriel** um entusiasta e ambicioso desenvolvedor full stack (mais voltado a front-end), Trabalho atualmente para a QuipoTech. Sou especialista em Desenvolvimento Web, JavaScript e Design. Adoro fazer networking, ingressar em novas comunidades e agregar valor a elas
 
 <div>
 <details>
-  <summary>🧑 More about me</summary>
+  <summary>Mais sobre mim 😁</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 Em uma jornada contante para criar projetos **transformadores** 
 
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 Aprendendo de tudo um pouco, atualmente estudando Java 🤓
 
-- 🤝 I’m looking for help with **finding projects to contribute to!**
+- 💬 Me pergunte sobre **web design e web development**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
-
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Me contate: **gabrielcisneirossoliveira@gmail.com**
 
 </details>
   
 </p>
-  
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
+
+  <a href="https://github.com/Gabriel-Cisneiros"><img width="42%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cisneiros&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/Gabriel-Cisneiros"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cisneiros&theme=radical&title_color=ff3068?"></a>
+
+<div style = "inline-block"><br>
+  <img align="center" alt="gab-python" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="gab-java" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="gab-c" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="gab-html" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="gab-css" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="gab-js" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="gab-django" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img align="right" alt="pac-man" src="http://i.imgur.com/ihWD6z6.gif"
 </div>
--->
 
-## 🔥 Github Stats
+##
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
-
-  <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-
-## 📘 My top open source projects
-
-<p align="left">
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-<p align="right">
-  <a href="https://top.gg/bot/623481583411658753">
-    <img alt="nezuko bot" title="Check out Nezuko" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.discord.gg/shiba">
-    <img alt="discord community" title="Join our community" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
-  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGiingu"/></a>
-  <a href="https://github.com/Giingu?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Giingu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/giingu">
-    <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/giingu?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
-</p>
+<div>
+  <a href="mailto:gabrielcisneirossoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/gabriel_cisneiros_" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-cisneiros-939152194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gabriel_cisneiros_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
