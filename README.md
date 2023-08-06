@@ -19,7 +19,7 @@ Olá 👋, eu sou **Gabriel** um entusiasta e ambicioso desenvolvedor full stack
 </p>
 
   <a href="https://github.com/Gabriel-Cisneiros"><img width="42%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cisneiros&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/Gabriel-Cisneiros"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cisneiros&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/Gabriel-Cisneiros"><img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cisneiros&theme=radical&title_color=ff3068?"></a>
 
 <div style = "inline-block"><br>
   <img align="center" alt="gab-python" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
