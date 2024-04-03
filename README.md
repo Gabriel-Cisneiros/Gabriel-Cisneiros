@@ -31,6 +31,7 @@ Olá 👋, eu sou **Gabriel** um entusiasta e ambicioso desenvolvedor full stack
   <img align="center" alt="gab-django" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   <img align="center" alt="gab-react" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img align="center" alt="gab-node" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img align="center" alt="gab-haskell" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg"/>
   <img width="220" height="210" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N4Y3doZGJtaWw1eWV4dzdhZjFkbWs0c2RqcjUybWlndWtoemhqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/no9i2Ae3CsjxGLzDAg/giphy.gif">
 </div>
 
