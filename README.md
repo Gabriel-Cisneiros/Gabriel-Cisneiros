@@ -1,4 +1,4 @@
-Olá 👋, eu sou **Gabriel** um entusiasta e ambicioso desenvolvedor full stack (mais voltado a front-end), Trabalho atualmente para a QuipoTech. Sou especialista em Desenvolvimento Web, JavaScript e Design UX. Adoro fazer networking, ingressar em novas comunidades e agregar valor a elas
+Olá 👋, eu sou **Gabriel** um entusiasta e ambicioso desenvolvedor full stack (mais voltado a front-end), Trabalho atualmente para a QuipoTech. Sou especialista em Desenvolvimento Web, TypeScript e Design UX. Adoro fazer networking, ingressar em novas comunidades e agregar valor a elas
 
 <div>
 <details>
@@ -8,7 +8,7 @@ Olá 👋, eu sou **Gabriel** um entusiasta e ambicioso desenvolvedor full stack
 
 - 🌱 Aprendendo de tudo um pouco, atualmente estudando React.js 🤓
 
-- 💬 Me pergunte sobre **web design e web development**
+- 💬 Me pergunte sobre **web development**
 
 - 📫 Me contate: **gabrielcisneirossoliveira@gmail.com**
 
