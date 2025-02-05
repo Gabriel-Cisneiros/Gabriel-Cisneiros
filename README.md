@@ -1,45 +1,36 @@
-Olá 👋, eu sou **Gabriel** um entusiasta e ambicioso desenvolvedor Front-End. Sou especialista em Desenvolvimento Web, TypeScript e Design UX. Adoro fazer networking, ingressar em novas comunidades e agregar valor a elas
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&color=458588&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Gabriel+Cisneiros+S.+de+Oliveira" alt="Title GitHub Readme" />
 
-<div>
-<details>
-  <summary>Mais sobre mim 😁</summary>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Cisneiros-informational?style=flat-square&logo=lospec&&color=458588&logoColor=white)](https://www.linkedin.com/in/gabriel-cisneiros-939152194/)
+[![Mail](https://img.shields.io/badge/Proton_Mail-gabrielcisneiros@proton.me-informational?style=flat-square&color=7a4e79&logo=protonmail&logoColor=white)](mailto:business.antler474@passinbox.com?subject=Hey!)
 
-- 🔭 Em uma jornada contante para criar projetos **transformadores** 
+# Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
-- 🌱 Aprendendo de tudo um pouco, atualmente estudando AngularJS 🤓
+My name is **Gabriel Cisneiros**, a graduate student at UFRPE in **Computer Science**, specialized in Front End Development.
 
-- 💬 Me pergunte sobre **web development**
+Previously, I completed a **technical course in Computer Networks** during high school, where I learned the fundamentals of networking, cybersecurity, and IT infrastructure. Later, in university, I participated in **Hovet**, an extension project that allowed me to apply my knowledge in a real-world setting, gaining hands-on experience in system administration and front end development.
 
-- 📫 Me contate: **gabrielcisneirossoliveira@gmail.com**
+💻 My interests lie within the field of **Software Development**, **Cybersecurity** & **Robotics**
 
-</details>
+🖊️ Outside my academic and professional pursuits, I am passionate about drawing, with a really useful perfectionism
 
-  ##
-  
+🔒 I am also interested in video games and puzzle games
+
+## GitHub Stats
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cisneiros&langs_count=5&theme=gruvbox&E&&hide_border=true&icon_color=F8D866)]()
+
+## 👨‍💻 Repositories 👨‍💻
+
+<p align="center">
+  <a href="https://github.com/Gabriel-Cisneiros/meet-our-team">
+    <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Cisneiros&repo=meet-our-team&theme=gruvbox&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Meet-Our-Team"/>
+  </a>
+  <a href="https://github.com/Gabriel-Cisneiros/ProMonitorFront">
+    <img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Cisneiros&repo=ProMonitorFront&theme=gruvbox&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Personal Website"/>
+  </a>
+  <a href="https://github.com/Gabriel-Cisneiros/firebase-notification-test">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Cisneiros&repo=firebase-notification-test&theme=gruvbox&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="The human factor: Addressing Diversity in RLHF" />
+  </a>
 </p>
 
-  <a href="https://github.com/Gabriel-Cisneiros"><img width="42%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cisneiros&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/Gabriel-Cisneiros"><img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cisneiros&theme=radical&title_color=ff3068?"></a>
-
-<div style = "inline-block"><br>
-  <img align="center" alt="gab-python" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="gab-java" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="gab-c" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="gab-html" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="gab-css" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="gab-js" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="gab-django" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img align="center" alt="gab-react" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="gab-node" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="gab-haskell" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg"/>
-  <img width="220" height="210" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N4Y3doZGJtaWw1eWV4dzdhZjFkbWs0c2RqcjUybWlndWtoemhqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/no9i2Ae3CsjxGLzDAg/giphy.gif">
-</div>
-
-##
-
-<div>
-  <a href="mailto:gabrielcisneirossoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://gitlab.com/gabriel_cisneiros_" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-cisneiros-939152194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gabriel_cisneiros_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://github.com/Gabriel-Cisneiros?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-272727?style=for-the-badge&logoColor=white&logo=repo"/></a>
